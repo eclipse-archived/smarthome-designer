@@ -77,9 +77,9 @@
               <name>CFBundleGetInfoString</name>
               <value>Copyright 2016 by the respective copyright owners.</value>
             </property>
-              <property>
-                <name>CFBundleLocalizations</name>
-                <value>en</value>
+            <property>
+              <name>CFBundleLocalizations</name>
+              <value>en</value>
             </property>
             <property>
               <name>Eclipse</name>
