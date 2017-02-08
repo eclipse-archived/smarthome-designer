@@ -165,7 +165,7 @@
 <unit id="org.eclipse.smarthome.feature.runtime.core.source.feature.group" version="0.0.0"/>
 <unit id="org.eclipse.smarthome.feature.runtime.model.feature.group" version="0.0.0"/>
 <unit id="org.eclipse.smarthome.feature.runtime.model.source.feature.group" version="0.0.0"/>
-<repository location="http://download.eclipse.org/smarthome/updates-stable/"/>
+<repository location="http://download.eclipse.org/smarthome/updates-nightly/"/>
 </location>
 </locations>
 </target>
